@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "F:\\MisDocumentos\\Uni\\Dis\\practica2\\practica2",
+  "generatedFolder": "F:\\MisDocumentos\\Uni\\Dis\\practica2\\practica2\\target\\frontend",
+  "frontendFolder": "F:\\MisDocumentos\\Uni\\Dis\\practica2\\practica2\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
